@@ -3,7 +3,7 @@
  * PITimer.h by Daniel Gilbert, Thanks a ton! https://github.com/loglow/PITimer
  *
  *
- * Creater Alex Medeiros, http://PenguinTech.tk
+ * Creater Alex Medeiros, http://PenguinTech.info
  * _16x32_Matrix R3.0
  * Use code freely and distort its contents as much as you want, just remeber to thank the 
  * original creaters of the code by leaving their information in the header. :)
